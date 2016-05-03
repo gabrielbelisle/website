@@ -1,0 +1,45 @@
+div.container{
+  padding-top: 150px;
+}
+
+h4 {
+  color:#2D2D2C;
+}
+
+body{
+  background-color: #EEEBE9;
+}
+
+nav{
+  align: left;
+}
+
+a {
+  color: #2D2D2C;
+  text-decoration: none;
+ }
+
+a:hover {
+  color: #2D2D2C;
+  text-decoration: none;
+ }
+
+@media (min-width: 550px) {
+  .thumb {
+    padding-left: 50px;
+  }
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+#container_12 {
+  padding-top: 137px;
+  margin:0 auto;
+  text-align: center;
+  }
+
+#container_12 a {color: #EEEBE9;}
+#container_12 a {text-decoration: none;}
